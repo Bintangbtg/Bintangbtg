@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bintang Risqi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangbtg&label=Profile%20views&color=0e75b6&style=flat" alt="bintangbtg" /> </p>
-
 - 🏫 I'm a student at [SMK TELKOM MALANG](https://smktelkom-mlg.sch.id/)
-
 - 💬 Ask me about **anything**
-
 - 📫 How to reach me **gbintang393@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bintang risqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bintang risqi" height="30" width="40" /></a>
