@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bintangbtg&theme=dracula&show_icons=true&locale=en&layout=compact" alt="bintangbtg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bintangbtg&theme=dracula&show_icons=true&locale=en" alt="bintangbtg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bintangbtg&theme=dracula&show_icons=true&locale=en" alt="bintangbtg" /></p>
